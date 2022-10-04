@@ -6,4 +6,9 @@
 //    (replacing the previous set of 4 random names)
 // 5. A button named 'Clear' that removes the populated list from the screen
 // 6. The application should be designed to be visually pleasing. 
+
+
 // Note: Do not spend too much time on design. Focus primarily on functionality(i.e. steps 1-5).
+
+
+
